@@ -237,3 +237,6 @@ This repository serves as the official landing page for Image Smith. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Image Smith today!**
+
+---
+**Last updated:** 2026-09-11 17:29:42 UTC
