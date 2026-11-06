@@ -239,4 +239,4 @@ This repository serves as the official landing page for Image Smith. The softwar
 **Get the most recent version of Image Smith today!**
 
 ---
-**Last updated:** 2026-11-06 11:47:15 UTC
+**Last updated:** 2026-11-06 18:51:48 UTC
